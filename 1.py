@@ -10,3 +10,9 @@ a = 10
 b = 20
 c = add(a,b)
 print(c)
+def dayin(x):
+    if x==1:
+        print("ture")
+    else:
+        print("false")
+print(dayin(c))
